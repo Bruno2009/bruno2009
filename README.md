@@ -1,3 +1,6 @@
+![Alt text](https://github.com/Bruno2009/imagem/blob/cd3ebd200a329279b03b7c984ea955d488cb268b/img/Foto.webp?raw=true "Title")
+
+
 ### Here will be all things that I've been studying about statistics, Machine learning, and Deep learning until now!   👋
 
 Here are some ideas to get you started:
