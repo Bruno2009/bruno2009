@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**Bruno2009/bruno2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Here will be all things that I've been studying about statistics, Machine learning, and Deep learning until now!   👋
 
 Here are some ideas to get you started:
 
