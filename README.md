@@ -1,6 +1,10 @@
-![Alt text](https://github.com/Bruno2009/imagem/blob/cd3ebd200a329279b03b7c984ea955d488cb268b/img/Foto.webp?raw=true)
-
 ##  👋👋👋👋👋
+
+Hey everyone, 
+
+here you can check some repository about my project during my master in computer vision. 
+
+Unfortunately, some repositories have no data or images because they were to be provided by professors, and I did not ask for their consent to share them here.
 
 ## #DataScientist #MachineLearning #DeepLearning #Inference #Probability #MLG #RegressionAnalysis
 
